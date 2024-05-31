@@ -1,10 +1,30 @@
+/*Variáveis globais*/
 @import "./global/global.css";
+
+/*Tipografias usadas no site*/
 @import "./utilidades/tipografia.css";
+
+/*Cores utilizadas por todo site*/
 @import "./utilidades/cores.css";
 
-@import "./global/header.css";
-/*Utilidades*/
+/*Todos os componentes*/
 @import "./utilidades/componentes.css";
 
-/* Home */
+/*Home*/
+/*Cabeçalho do site*/
+@import "./global/header.css";
+
+/* Introdução */
 @import "./home/introducao.css";
+
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
+
+/*Tecnologias*/
+@import "./home/tecnologia.css";
+
+/*Parceiros*/
+@import "./home/parceiros.css";
+
+/*Depoimento*/
+@import "./home/depoimento.css";
