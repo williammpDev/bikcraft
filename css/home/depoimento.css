@@ -15,7 +15,10 @@
 .depoimento-conteudo {
   padding: 40px 40px 80px 80px;
   align-self: end;
+<<<<<<< HEAD
   background: url('../../img/dec/bottom-right-p.svg') no-repeat bottom 40px right 40px;
+=======
+>>>>>>> 9d73023c070db55fc5a04bd556096524d4e37dd6
 }
 
 .depoimento-conteudo p {
@@ -44,12 +47,15 @@
   content: "”";
 }
 
+<<<<<<< HEAD
 @media (min-width: 1200px) {
   .depoimento img{
     max-height: 520px;
   }
 }
 
+=======
+>>>>>>> 9d73023c070db55fc5a04bd556096524d4e37dd6
 @media (max-width: 800px) {
   .depoimento {
     grid-template-columns: 1fr;

@@ -1,16 +1,29 @@
 /*Variáveis globais*/
 @import "./global/global.css";
+<<<<<<< HEAD
 @import "./global/header.css";
 @import "./global/footer.css";
 
 /*Utilidades*/
+=======
+
+/*Tipografias usadas no site*/
+>>>>>>> 9d73023c070db55fc5a04bd556096524d4e37dd6
 @import "./utilidades/tipografia.css";
+
+/*Cores utilizadas por todo site*/
 @import "./utilidades/cores.css";
+<<<<<<< HEAD
+=======
+
+/*Todos os componentes*/
+>>>>>>> 9d73023c070db55fc5a04bd556096524d4e37dd6
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
 @import "./utilidades/animacao.css";
 
 /*Home*/
+<<<<<<< HEAD
 @import "./home/tecnologia.css";
 @import "./home/introducao.css";
 @import "./home/parceiros.css";
@@ -38,3 +51,22 @@
 
 /*Termos*/
 @import "./termos/termos.css";
+=======
+/*Cabeçalho do site*/
+@import "./global/header.css";
+
+/* Introdução */
+@import "./home/introducao.css";
+
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
+
+/*Tecnologias*/
+@import "./home/tecnologia.css";
+
+/*Parceiros*/
+@import "./home/parceiros.css";
+
+/*Depoimento*/
+@import "./home/depoimento.css";
+>>>>>>> 9d73023c070db55fc5a04bd556096524d4e37dd6
